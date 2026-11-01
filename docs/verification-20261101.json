@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-01",
+  "helper_builds": {
+    "amok": "passed controller mapping tests",
+    "starshot": "passed camera input and 32-bit DLL load/export tests"
+  },
+  "installer_outputs": {
+    "amok": "d097724e98152deafe253006421667344062c288c5784f4c5793247c5b68735b",
+    "starshot": [
+      {
+        "path": "SpaceCircus.exe",
+        "sha256": "aec39726e2eae0bd76478262efb584dc751cc9f72ad17d1ede3ccc4aea7e5a49"
+      },
+      {
+        "path": "glide.i3D",
+        "sha256": "eaa8bd6995a7c64062281061e4e3c59d101d18c70a4d911c5c3d18d8e3cc320a"
+      }
+    ]
+  },
+  "source_files_unchanged": true,
+  "full_playthrough_tested": false,
+  "separate_clean_pc_tested": false
+}

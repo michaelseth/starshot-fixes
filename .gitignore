@@ -1,0 +1,22 @@
+# Generated files and player-supplied game data
+/build/
+/dist/
+/verification/
+/node_modules/
+__pycache__/
+*.pyc
+*.dll
+*.exe
+*.obj
+*.o
+*.pdb
+*.zip
+*.7z
+*.bak
+*.dmp
+*.raw
+*.log
+*.i3D
+*.bin
+.DS_Store
+Thumbs.db
